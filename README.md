@@ -87,6 +87,11 @@ class _MyPayPageState extends State<MyPayPage> {
 
 ```
 
+#Reference Link
+
+`https://medium.flutterdevs.com/razorpay-payment-in-flutter-7285408d11a8`
+`https://pub.dev/packages/razorpay_flutter`
+
 
 
 ## Getting Started
