@@ -4,7 +4,7 @@ A new Flutter project.
 
 #Refernece Code
 
-`import 'package:flutter/material.dart';
+```import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
 
@@ -85,7 +85,7 @@ class _MyPayPageState extends State<MyPayPage> {
   }
 }
 
-`
+```
 
 
 
